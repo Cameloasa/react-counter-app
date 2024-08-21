@@ -19,6 +19,6 @@
     border-radius: 5px;
     cursor: pointer;
 }
-..counter-button :hover{
+.counter-button :hover{
     background-color: hsl(200, 100%, 50%);
 }
