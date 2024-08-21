@@ -2,13 +2,14 @@
 import React from 'react'
 import Counter from './Counter'
 import ComponentOnChange from './ComponentOnChange'
+import ColorPicker from './ColorPicker'
 
 
 
 function App  () {
   return (
     <>
-    <ComponentOnChange/>
+    <ColorPicker/>
     </>
   )
 }
