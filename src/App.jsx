@@ -5,13 +5,14 @@ import ComponentOnChange from './ComponentOnChange'
 import ColorPicker from './ColorPicker'
 import ComponentUpdaterFunction from './ComponentUpdaterFunction'
 import ComponentUpdateObject from './ComponentUpdateObject'
+import ComponentUpdateArray from './ComponentUpdatearray'
 
 
 
 function App  () {
   return (
     <>
-    <ComponentUpdateObject/>
+    <ComponentUpdateArray/>
     </>
   )
 }
