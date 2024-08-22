@@ -6,13 +6,14 @@ import ColorPicker from './ColorPicker'
 import ComponentUpdaterFunction from './ComponentUpdaterFunction'
 import ComponentUpdateObject from './ComponentUpdateObject'
 import ComponentUpdateArray from './ComponentUpdatearray'
+import UpdateArrayOfObjects from './UpdateArrayOfObjects'
 
 
 
 function App  () {
   return (
     <>
-    <ComponentUpdateArray/>
+    <UpdateArrayOfObjects/>
     </>
   )
 }
